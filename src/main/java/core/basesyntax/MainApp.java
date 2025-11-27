@@ -13,4 +13,4 @@ public class MainApp {
             machine.stopWork();
         }
     }
-}
+
